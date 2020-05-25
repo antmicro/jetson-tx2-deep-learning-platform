@@ -9,13 +9,13 @@ Copyright (c) 2020 Antmicro <`www.antmicro.com <https://www.antmicro.com>`_>
 Overview
 ========
 
-This repository contains open hardware design files for a baseboard supporting the NVIDIA Jetson TX2/TX2i/TX family of System-on-Modules.
+This repository contains open hardware design files for a baseboard supporting the NVIDIA Jetson TX2/TX2i family of System-on-Modules.
 The board exposes typical IO interfaces and enables connecting multiple MIPI CSI-2 cameras over dedicated expansion boards.
 
 Features
 ========
 
-* SEAM connector for NVIDIA Jetson TX1/TX2 modules
+* SEAM connector for NVIDIA Jetson TX2/TX2i modules (also compatible with the legacy TX1)
 * 80 pin stacking board-to-board Samtec QSE connector allowing to connect camera expansion boards
 * USB 3.0 host interface
 * HDMI output
