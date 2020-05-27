@@ -2,7 +2,7 @@
 Antmicro Jetson TX2 baseboard
 =============================
 
-Copyright (c) 2020 Antmicro <`www.antmicro.com <https://www.antmicro.com>`_>
+Copyright (c) 2020 `Antmicro <https://www.antmicro.com>`_
 
 .. image:: Images/tx.png
 
