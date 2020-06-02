@@ -4,9 +4,7 @@ Antmicro TX2 Deep Learning Platform
 
 Copyright (c) 2020 `Antmicro <https://www.antmicro.com>`_
 
-.. image:: Images/tx.png
-   :width: 3500px
-   :height: 2335px
+.. image:: Images/tx2-deep-learning-platform.png
    :scale: 40%
 
 Overview
@@ -27,7 +25,7 @@ Repository structure:
 * ``Images`` - contains graphics for this README
 * ``3DModels`` - contains files defining the mechanical model of the assembled platform
 
-The PCB projects include basic documentation containig schematics, assembly drawings (in the PDF format) along with the bill of material (BOM).
+The PCB projects include basic documentation including schematics, assembly drawings (in the PDF format) along with the bill of material (BOM).
 The PCB project files were prepared in Altium Designer 14.1
 
 Key Features
