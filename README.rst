@@ -2,7 +2,7 @@
 Antmicro TX2 Deep Learning Platform
 ===================================
 
-Copyright (c) 2020 `Antmicro <https://www.antmicro.com>`_
+Copyright (c) 2016-2021 `Antmicro <https://www.antmicro.com>`_
 
 .. image:: Images/tx2-deep-learning-platform.png
    :scale: 40%
@@ -70,3 +70,8 @@ Supported accessories
 
 The TX2 Deep Learning Platform is compatible with a range of video accessories designed by Antmicro.
 Some of them, like the `OV9281 Camera Board <https://github.com/antmicro/ov9281-camera-board>`_ are available as Open Hardware designs.
+
+License
+=======
+
+`Apache-2.0 <LICENSE>`_
