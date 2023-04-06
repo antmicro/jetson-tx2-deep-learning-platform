@@ -17,10 +17,10 @@ Thanks to its straightforward design, the camera adapter can be easily adjusted 
 
 ## Project structure:
 
-* ``Baseboard`` - contains PCB design files for the Jetson TX1/TX2/TX2i baseboard along with basic documentation
-* ``CameraAdapter`` - contains PCB design files for the camera adapter, which break-routes the MIPI CSI-2 interfaces from the baseboard on three FFC connectors
-* ``Images`` - contains graphics for this README
-* ``3DModels`` - contains files defining the mechanical model of the assembled platform
+* `Baseboard` - contains PCB design files for the Jetson TX1/TX2/TX2i baseboard along with basic documentation
+* `CameraAdapter` - contains PCB design files for the camera adapter, which break-routes the MIPI CSI-2 interfaces from the baseboard on three FFC connectors
+* `img` - contains graphics for this README
+* `3DModels` - contains files defining the mechanical model of the assembled platform
 
 The PCB projects include basic documentation including schematics, assembly drawings (in the PDF format) along with the bill of material (BOM).
 The PCB project files were prepared in Altium Designer 14.1
